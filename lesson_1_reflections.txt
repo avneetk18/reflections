@@ -1,0 +1,6 @@
+cd E:/
+cd Downloads
+diff -u old_text.js newtext.js //finding the differences between two files using git bash
+
+mkdir version_control // to make a directory
+subl lesson_1_reflections.txt //to make a file and open with sublime
